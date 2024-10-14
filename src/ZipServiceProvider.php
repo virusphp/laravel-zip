@@ -1,6 +1,6 @@
 <?php
 
-namespace ZanySoft\Zip;
+namespace Virusphp\Zip;
 
 use Illuminate\Support\ServiceProvider;
 

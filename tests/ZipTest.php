@@ -1,11 +1,11 @@
 <?php
 
 
-namespace ZanySoft\Zip\Tests;
+namespace Virusphp\Zip\Tests;
 
 
 use Orchestra\Testbench\TestCase;
-use ZanySoft\Zip\Facades\Zip;
+use Virusphp\Zip\Facades\Zip;
 
 class ZipTest extends TestCase
 {
@@ -22,7 +22,7 @@ class ZipTest extends TestCase
     {
         parent::tearDown();
 
-//        array_map('unlink', glob($this->filesPath('Zips/*')) ?: []);
+        //        array_map('unlink', glob($this->filesPath('Zips/*')) ?: []);
         $this->deleteTestFiles();
     }
 

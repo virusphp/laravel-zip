@@ -1,17 +1,17 @@
 <?php
 
-namespace ZanySoft\Zip;
+namespace Virusphp\Zip;
 
 use Exception;
 use Illuminate\Support\Str;
 use ZipArchive;
 
 /**
- * ZanySoft\Zip - ZipArchive toolbox
+ * Virusphp\Zip - ZipArchive toolbox
  *
  * This class provide methods to handle single zip archive
  *
- * @package     ZanySoft\Zip
+ * @package     Virusphp\Zip
  * @author      ZanySoft <info@zanysoft.co>
  * @license     MIT
  *
