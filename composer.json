@@ -1,13 +1,13 @@
 {
-  "name": "zanysoft/laravel-zip",
+  "name": "virusphp/laravel-zip",
   "description": "laravel-zip is the world's leading zip utility for file compression and backup.",
   "license": "MIT",
-  "homepage": "http://www.zanysoft.net",
+  "homepage": "http://www.virusphp.net",
   "authors": [
     {
       "name": "Zany Soft",
-      "email": "info@zanysoft.net",
-      "homepage": "http://www.zanysoft.net"
+      "email": "info@virusphp.net",
+      "homepage": "http://www.virusphp.net"
     }
   ],
   "keywords": [
@@ -36,21 +36,21 @@
   },
   "autoload": {
     "psr-4": {
-      "ZanySoft\\Zip\\": "src"
+      "virusphp\\Zip\\": "src"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "ZanySoft\\Zip\\": "tests"
+      "virusphp\\Zip\\": "tests"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "ZanySoft\\Zip\\ZipServiceProvider"
+        "Virusphp\\Zip\\ZipServiceProvider"
       ],
       "aliases": {
-        "Zip": "ZanySoft\\Zip\\Facades\\Zip"
+        "rip": "Virusphp\\Zip\\Facades\\Zip"
       }
     }
   }
