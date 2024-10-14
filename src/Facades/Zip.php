@@ -13,6 +13,6 @@ class Zip extends Facade
 {
     protected static function getFacadeAccessor()
     {
-        return 'zanysoft.zip';
+        return 'virusphp.zip';
     }
 }
