@@ -1,9 +1,9 @@
 # virusphp/laravel-zip
 
-[![Downloads](https://img.shields.io/packagist/dt/zanysoft/laravel-zip.svg?style=flat-square)](https://packagist.org/packages/zanysoft/laravel-zip)
-[![GitHub license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/zanysoft/laravel-zip/blob/master/LICENSE)
+[![Downloads](https://img.shields.io/packagist/dt/VIRUSPHP/laravel-zip.svg?style=flat-square)](https://packagist.org/packages/VIRUSPHP/laravel-zip)
+[![GitHub license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VIRUSPHP/laravel-zip/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-informational.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![GitHub tag](https://img.shields.io/github/tag/ZanySoft/laravel-zip.svg?style=flat&logo=laravel&color=informational)](https://github.com/zanysoft/laravel-zip/tags)
+[![GitHub tag](https://img.shields.io/github/tag/VIRUSPHP/laravel-zip.svg?style=flat&logo=laravel&color=informational)](https://github.com/VIRUSPHP/laravel-zip/tags)
 
 > laravel-zip is the world's leading zip utility for file compression and backup.
 

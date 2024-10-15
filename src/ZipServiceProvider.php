@@ -23,7 +23,7 @@ class ZipServiceProvider extends ServiceProvider
      */
     public function registerZipService()
     {
-        $this->app->singleton('zanysoft.zip', function ($app) {
+        $this->app->singleton('virusphp.zip', function ($app) {
             return new Zip();
         });
     }
