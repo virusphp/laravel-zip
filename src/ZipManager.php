@@ -7,8 +7,8 @@ use Exception;
 /**
  * Multiple ZipArchive manager
  *
- * @package     ZanySoft/Zip
- * @author      ZanySof <info@zanysoft.co>
+ * @package     Virusphp/Zip
+ * @author      Virusphp <info@virusphp.co>
  * @license     MIT
  *
  */
